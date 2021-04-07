@@ -5,7 +5,5 @@ My wife is a big fan of the television franchise, The Bachelor, which means that
 As I continue to watch the show I hope to be able to build this dataset and explore various analytics such as sentiment analysis and screen time impact on follower count. This project is solely for entertainment.
 
 Currently there are 2 folders:
-1) db
-  a) This holds all relevant code to create and interact with the MySQL database that is storing the data
-2) pipeline
-  a) This holds all relevant files to interact with instagram and pull the follower counts
+1) db - This holds all relevant code to create and interact with the MySQL database that is storing the data
+2) pipeline -  This holds all relevant files to interact with instagram and pull the follower counts
